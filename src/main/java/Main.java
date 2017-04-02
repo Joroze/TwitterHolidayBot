@@ -20,8 +20,6 @@ import java.util.Arrays;
  * Created by jorda on 5/15/2016.
  */
 public class Main {
-
-
     private static OkHttpClient client = new OkHttpClient();
 
     private Main()
